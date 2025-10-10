@@ -2,6 +2,24 @@
 
 [![CI/CD Pipeline](https://github.com/AlejandroMora05/lab2/actions/workflows/build.yml/badge.svg)](https://github.com/AlejandroMora05/lab2/actions/workflows/build.yml)
 
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=AlejandroMora05_lab2&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=AlejandroMora05_lab2)
+
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=AlejandroMora05_lab2&metric=bugs)](https://sonarcloud.io/summary/new_code?id=AlejandroMora05_lab2)
+
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=AlejandroMora05_lab2&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=AlejandroMora05_lab2)
+
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=AlejandroMora05_lab2&metric=coverage)](https://sonarcloud.io/summary/new_code?id=AlejandroMora05_lab2)
+
+[![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=AlejandroMora05_lab2&metric=sqale_index)](https://sonarcloud.io/summary/new_code?id=AlejandroMora05_lab2)
+
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=AlejandroMora05_lab2&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=AlejandroMora05_lab2)
+
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=AlejandroMora05_lab2&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=AlejandroMora05_lab2)
+
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=AlejandroMora05_lab2&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=AlejandroMora05_lab2)
+
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=AlejandroMora05_lab2&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=AlejandroMora05_lab2)
+
 Implementation of a Simple App with the next operations:
 
 * Get random nations
